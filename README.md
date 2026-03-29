@@ -16,7 +16,7 @@ Cada site possui:
 
 ## 🌐 Topologia
 
-![Topologia](topology/topologia.png)
+![Topologia](topology.jpeg)
 
 ---
 
